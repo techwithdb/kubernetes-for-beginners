@@ -2,7 +2,10 @@
 
 ## What you will learn in this couse
 
-1. Understand what Kubernetes is, why it’s used, and how it solves real-world problems in container orchestration.
+1. Understand 
+    - what Kubernetes is?
+    - why it’s used?
+    - how it solves real-world problems in container orchestration.
 2. Install and configure Minikube and kubectl to run a fully functional Kubernetes cluster locally.
 3. Learn about Pods, ReplicaSets, Deployments, and Services — the essential objects that power Kubernetes.
 4. Deploy sample applications, scale them up or down, and expose them to the outside world.
